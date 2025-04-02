@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cred<br>👯 I’m looking to collaborate on Replit<br>🤝 I’m looking for help with 0Auth 2.0 <br>🌱 I’m currently learning Google Cloud<br>💬 Ask me about my side projects<br>⚡ Fun fact
+🔭 I’m currently working on withDeli<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with 0Auth 2.0 <br>🌱 I’m currently learning everything<br>💬 Ask me about my side projects<br>⚡ 
 
 
 ## 🌐 Socials:
