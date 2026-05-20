@@ -18,8 +18,8 @@ jobs:
             // Repos to track (add/remove as needed)
             const tracked = [
               { owner: 'cred-ninja', repo: 'sdk', label: 'Cred SDK' },
-              { owner: 'kilroycreative', repo: 'deep-loop', label: 'deep-loop' },
-              { owner: 'kilroycreative', repo: 'openclaw', label: 'OpenClaw' },
+              { owner: 'kierandotai', repo: 'deep-loop', label: 'deep-loop' },
+              { owner: 'kierandotai', repo: 'openclaw', label: 'OpenClaw' },
             ];
             const rows = [];
             for (const t of tracked) {
